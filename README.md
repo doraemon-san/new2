@@ -4,4 +4,5 @@
 Learning git man
 Testing this
 last time this worked. lol, it won't work now. 
-The process has changed a bit I think.
+
+The project mainly contains the linux scripts to make life easy !!
